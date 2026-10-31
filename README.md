@@ -1,5 +1,5 @@
-# MyMoney – קובצי עדכון
+# MyMoney – update files
 
-הריפו הזה מכיל רק את קובצי ההתקנה והעדכון של MyMoney (GitHub Releases). אין כאן קוד מקור ואין נתוני משתמשים.
+This repo contains only the installation and update files of MyMoney (GitHub Releases). There is no source code here and no user data.
 
-האפליקציה קוראת מכאן את `latest.json` רק כשהמשתמש מפעיל בדיקת עדכונים, ומתקינה רק מתקין שנחתם במפתח של בעל המוצר.
+The app reads `latest.json` from here only when the user starts a check for updates, and installs only an installer that was signed with the product owner's key.
